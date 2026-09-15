@@ -51,8 +51,9 @@ The objective of this project is to transform HR employee data into an interacti
 
 ## 📷 Dashboard Preview
 
-```markdown
-![HR Analytics Dashboard](HR_Analytics_Dashboard.jpg)
+```
+<img width="1315" height="610" alt="image" src="https://github.com/user-attachments/assets/210cf89d-81bb-456f-a33d-499965989606" />
+
 ```
 
 ## 📂 Project Files
