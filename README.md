@@ -49,6 +49,10 @@ The dashboard analyzes employee data to understand workforce distribution, salar
 
 The objective of this project is to transform HR employee data into an interactive Tableau dashboard that provides clear and meaningful workforce insights through data visualization.
 
+```
+HR Analytics Dashboard/HR Analytics dashboard.JPG
+```
+
 ## 📂 Project Files
 
 * `HR_Analytics_Dashboard.twbx` – Tableau dashboard file
