@@ -51,7 +51,7 @@ The objective of this project is to transform HR employee data into an interacti
 
 ## 📷 Dashboard Preview
 
-![HR Analytics Dashboard/HR Analytics dashboard.JPG]
+![HR Analytics Dashboard](HR Analytics dashboard.JPG)
 
 ## 📂 Project Files
 
